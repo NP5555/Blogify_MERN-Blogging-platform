@@ -9,7 +9,7 @@ const Post = require('../models/Post');
 router.get('', async (req, res) => {
   try {
     const locals = {
-      title: "NodeJs Blog",
+      title: "Blogify_",
       description: "Simple Blog created with NodeJs, Express & MongoDb."
     }
 
@@ -43,7 +43,7 @@ router.get('', async (req, res) => {
 
 router.get('', async (req, res) => {
   const locals = {
-    title: "NodeJs Blog",
+    title: "Blogify_",
     description: "Simple Blog created with NodeJs, Express & MongoDb."
   }
 
