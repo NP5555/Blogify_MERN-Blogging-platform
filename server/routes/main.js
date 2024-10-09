@@ -138,7 +138,7 @@ function insertPostData () {
   Post.insertMany([
     {
       title: "Building APIs with Node.js",
-      body: "Learn how to use Node.js to build RESTful APIs using frameworks like Express.js"
+      body: "Building APIs with Node.js allows developers to create fast, scalable, and efficient backend services. Node.js, powered by JavaScript, offers a non-blocking, event-driven architecture ideal for handling multiple requests simultaneously. With frameworks like Express.js, developers can seamlessly design RESTful APIs, manage routes, connect to databases, and enhance functionality with middleware, making it the go-to choice for modern web development. Whether for small applications or large-scale platforms, Node.js simplifies building dynamic, real-time APIs that integrate effortlessly with frontend systems."
     },
     {
       title: "Deployment of Node.js applications",
@@ -174,7 +174,7 @@ function insertPostData () {
     },
     {
       title: "Learn Morgan - HTTP Request logger for NodeJs",
-      body: "Learn Morgan."
+      body: "Building APIs with Node.js allows developers to create fast, scalable, and efficient backend services. Node.js, powered by JavaScript, offers a non-blocking, event-driven architecture ideal for handling multiple requests simultaneously. With frameworks like Express.js, developers can seamlessly design RESTful APIs, manage routes, connect to databases, and enhance functionality with middleware, making it the go-to choice for modern web development. Whether for small applications or large-scale platforms, Node.js simplifies building dynamic, real-time APIs that integrate effortlessly with frontend systems."
     },
   ])
 }
