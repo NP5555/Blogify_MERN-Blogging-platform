@@ -1,7 +1,7 @@
 {
   "name": "blogify_",
   "version": "1.0.0",
-  "description": "",
+  "description": "Blogify MERN Blogging Platform A full-stack blogging platform built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, designed for users to create, view, and manage blog posts with authentication and authorization features.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -26,5 +26,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NP5555/Blogify_MERN-Blogging-platform.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NP5555/Blogify_MERN-Blogging-platform/issues"
+  },
+  "homepage": "https://github.com/NP5555/Blogify_MERN-Blogging-platform#readme"
 }
